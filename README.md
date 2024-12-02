@@ -85,7 +85,7 @@
 - **Base Explorer:**  
   [Explore the Contract on Base](https://sepolia.basescan.org/address/0xadD4E93d058090bCeFa96EB34D723E2d48533e97)
 - **Deployed Token on Base**
-  [See deployed token On Base sepolia]()
+  [See deployed token On Base sepolia](https://sepolia.basescan.org/address/0xFa21f835BfA6fAAba79444cfed540ee4F1F3f8d0)
 ---
 
 ## Notion Docs
