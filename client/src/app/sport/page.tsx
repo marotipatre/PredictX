@@ -35,7 +35,7 @@ const ExplorePage: React.FC = () => {
     <section className="relative py-24 md:py-28 lg:py-30">
       <div className="container mx-auto px-4 mb-10">
         <img
-          src="/images/Banner-Buzzify.png"
+          src="https://res.cloudinary.com/dmebegin1/image/upload/v1733104947/OIP.3wUyLbd_e3_tVKr3dQnhMQHaE7_ipyrrz.jpg"
           alt="Explore Banner"
           className="w-full rounded-lg"
         />
