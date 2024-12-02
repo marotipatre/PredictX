@@ -83,8 +83,9 @@
 ### Blockscout Explorer Link
 
 - **Base Explorer:**  
-  [Explore the Contract on Base](https://base-sepolia.blockscout.com/address/0x82d9173B1c4E26f6dd5C16fa2a75C26acEC2d19c)
-
+  [Explore the Contract on Base](https://sepolia.basescan.org/address/0xadD4E93d058090bCeFa96EB34D723E2d48533e97)
+- **Deployed Token on Base**
+  [See deployed token On Base sepolia]()
 ---
 
 ## Notion Docs
