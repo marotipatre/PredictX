@@ -40,8 +40,8 @@ export const Addresses = {
   
   "84532": {
     name: "Base Sepolia",
-    tokenAddress: "0x0e5D06e810Edca5fc273ca75D49F8D7c84137E4b",
-    mainContractAddress: "0x2327b2aCa446a37A70Bbd02D81E9BE07EB5518FC",
+    tokenAddress: "0xFa21f835BfA6fAAba79444cfed540ee4F1F3f8d0",
+    mainContractAddress: "0xadD4E93d058090bCeFa96EB34D723E2d48533e97",
   },
 };
 
